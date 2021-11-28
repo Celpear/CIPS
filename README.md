@@ -1,4 +1,4 @@
-# C.I.P.S
+# CIPS
 ## 100% decentralized, serverless and encrypted smart home!
 
 Celpear Indoor Positioning System (CIPS) is a technology to track objects in rooms. This means that smart devices such as robotic vacuum cleaners no longer need expensive position sensors. CIPS enables a local API in which clients can obtain their global position in the room. It also allows lost devices to be found.
