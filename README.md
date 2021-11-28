@@ -13,7 +13,7 @@ CIPS allows you to have an open API on your home network. Companies can use this
 
 The API also includes the location of your devices within your home. For this purpose, the exact position is calculated and made available. This way, vacuum robots or security drones can navigate autonomously in your home.
 
-# Function Overview:
+## Function Overview:
 ![Overview](/assets/images/cips_overview.jpg)
 
 
